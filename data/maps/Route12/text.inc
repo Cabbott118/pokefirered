@@ -1,5 +1,5 @@
 Route12_Text_MonSprawledOutInSlumber::
-    .string "A POKéMON is sprawled out in\n"
+    .string "A Pokémon is sprawled out in\n"
     .string "a deep and comfortable slumber.$"
 
 Text_SnorlaxWokeUp::
@@ -12,10 +12,10 @@ Text_SnorlaxReturnedToMountains::
     .string "And returned to the mountains.$"
 
 Text_WantToUsePokeFlute::
-    .string "Want to use the POKé FLUTE?$"
+    .string "Want to use the Poké Flute?$"
 
 Text_PlayedPokeFlute::
-    .string "{PLAYER} played the POKé FLUTE.$"
+    .string "{PLAYER} played the Poké Flute.$"
 
 Route12_Text_NedIntro::
     .string "Yeah!\n"
@@ -37,24 +37,24 @@ Route12_Text_ChipDefeat::
     .string "That one got away!$"
 
 Route12_Text_ChipPostBattle::
-    .string "With a better ROD, I could catch\n"
-    .string "better POKéMON…$"
+    .string "With a better Rod, I could catch\n"
+    .string "better Pokémon…$"
 
 Route12_Text_JustinIntro::
-    .string "I'm searching for a MOON STONE.\n"
+    .string "I'm searching for a Moon Stone.\n"
     .string "Have you found one?$"
 
 Route12_Text_JustinDefeat::
     .string "Oww!$"
 
 Route12_Text_JustinPostBattle::
-    .string "I could have made my POKéMON\n"
-    .string "evolve with a MOON STONE.\p"
+    .string "I could have made my Pokémon\n"
+    .string "evolve with a Moon Stone.\p"
     .string "I would have won then, I bet.$"
 
 Route12_Text_LucaIntro::
     .string "Electricity is my specialty.\p"
-    .string "I don't know a thing about POKéMON\n"
+    .string "I don't know a thing about Pokémon\n"
     .string "of the sea, though.$"
 
 Route12_Text_LucaDefeat::
@@ -62,11 +62,11 @@ Route12_Text_LucaDefeat::
 
 Route12_Text_LucaPostBattle::
     .string "Water conducts electricity, so you\n"
-    .string "should zap sea POKéMON.$"
+    .string "should zap sea Pokémon.$"
 
 Route12_Text_HankIntro::
-    .string "The FISHING FOOL versus POKéMON\n"
-    .string "KID!$"
+    .string "The Fishing Fool versus Pokémon\n"
+    .string "Kid!$"
 
 Route12_Text_HankDefeat::
     .string "Touch too much!$"
@@ -74,7 +74,7 @@ Route12_Text_HankDefeat::
 Route12_Text_HankPostBattle::
     .string "I guess you get to be good at\n"
     .string "what you like.\p"
-    .string "Well, you beat me at POKéMON,\n"
+    .string "Well, you beat me at Pokémon,\n"
     .string "but you can't top me at fishing.$"
 
 Route12_Text_ElliotIntro::
@@ -103,42 +103,42 @@ Route12_Text_AndrewPostBattle::
     .string "But, boy are they wimpy.$"
 
 Route12_Text_RouteSign::
-    .string "ROUTE 12 \n"
-    .string "North to LAVENDER$"
+    .string "Route 12 \n"
+    .string "North to Lavender$"
 
 Route12_Text_SportfishingArea::
-    .string "SPORTFISHING AREA$"
+    .string "SPORTFISHING Area$"
 
 Route12_Text_JesIntro::
-    .string "JES: If I win, I'm going to\n"
-    .string "propose to GIA.$"
+    .string "Jes: If I win, I'm going to\n"
+    .string "propose to Gia.$"
 
 Route12_Text_JesDefeat::
-    .string "JES: Oh, please, why couldn't you\n"
+    .string "Jes: Oh, please, why couldn't you\n"
     .string "let us win?$"
 
 Route12_Text_JesPostBattle::
-    .string "JES: Oh, GIA, forgive me,\n"
+    .string "Jes: Oh, Gia, forgive me,\n"
     .string "my love!$"
 
 Route12_Text_JesNotEnoughMons::
-    .string "JES: GIA and I, we'll be\n"
+    .string "Jes: Gia and I, we'll be\n"
     .string "together forever.\p"
     .string "We won't battle unless you have\n"
-    .string "two POKéMON of your own.$"
+    .string "two Pokémon of your own.$"
 
 Route12_Text_GiaIntro::
-    .string "GIA: Hey, JES…\p"
+    .string "Gia: Hey, Jes…\p"
     .string "If we win, I'll marry you!$"
 
 Route12_Text_GiaDefeat::
-    .string "GIA: Oh, but why?$"
+    .string "Gia: Oh, but why?$"
 
 Route12_Text_GiaPostBattle::
-    .string "GIA: JES, you silly!\n"
+    .string "Gia: Jes, you silly!\n"
     .string "You ruined this!$"
 
 Route12_Text_GiaNotEnoughMons::
-    .string "GIA: I can't bear to battle\n"
-    .string "without my JES!\p"
-    .string "Don't you have one more POKéMON?$"
+    .string "Gia: I can't bear to battle\n"
+    .string "without my Jes!\p"
+    .string "Don't you have one more Pokémon?$"

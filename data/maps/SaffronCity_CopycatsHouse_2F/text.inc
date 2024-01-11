@@ -1,6 +1,6 @@
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
     .string "{PLAYER}: Hi!\n"
-    .string "Do you like POKéMON?\p"
+    .string "Do you like Pokémon?\p"
     .string "{PLAYER}: Uh, no, I just asked you.\p"
     .string "{PLAYER}: Huh?\n"
     .string "You're strange!\p"
@@ -9,7 +9,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
     .string "{PLAYER}: Hi.\n"
-    .string "You must like POKéMON.\p"
+    .string "You must like Pokémon.\p"
     .string "{PLAYER}: No, not me.\n"
     .string "I asked you.\p"
     .string "{PLAYER}: Pardon?\n"
@@ -20,17 +20,17 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
 
 Text_MimicTeach::
     .string "Oh wow!\n"
-    .string "A POKé DOLL!\p"
+    .string "A Poké Doll!\p"
     .string "For me?\n"
     .string "Thank you!\p"
     .string "You know what?\n"
-    .string "I can teach the move MIMIC.$"
+    .string "I can teach the move Mimic.$"
 
 Text_MimicDeclined::
-    .string "Don't you like MIMIC?$"
+    .string "Don't you like Mimic?$"
 
 Text_MimicWhichMon::
-    .string "I really love MIMIC!\n"
+    .string "I really love Mimic!\n"
     .string "Who's going to learn it?$"
 
 Text_MimicTaughtMale::
@@ -80,11 +80,11 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP::
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
     .string "DODUO: Giiih!\p"
-    .string "PRETTY MIRROR LOOK AT ME,\n"
-    .string "SEE HOW PRETTY I CAN BE?$"
+    .string "Pretty Mirror Look At Me,\n"
+    .string "SEE HOW Pretty I CAN BE?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-    .string "This is a rare POKéMON!\n"
+    .string "This is a rare Pokémon!\n"
     .string "Huh? It's only a doll!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
@@ -96,7 +96,7 @@ SaffronCity_CopycatsHouse_2F_Text_MySecrets::
     .string "My Secrets!\p"
     .string "Skill: Mimicry!\n"
     .string "Hobby: Collecting dolls!\l"
-    .string "Favorite POKéMON: CLEFAIRY!$"
+    .string "Favorite Pokémon: Clefairy!$"
 
 SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
     .string "？　みえないぞ‥$"

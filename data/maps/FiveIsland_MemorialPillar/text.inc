@@ -1,6 +1,6 @@
 FiveIsland_MemorialPillar_Text_MiloIntro::
-    .string "I'm the eldest of the BIRD\n"
-    .string "BROTHERS.\p"
+    .string "I'm the eldest of the Bird\n"
+    .string "Brothers.\p"
     .string "The best thing about birds…\n"
     .string "It has to be the beak.$"
 
@@ -8,12 +8,12 @@ FiveIsland_MemorialPillar_Text_MiloDefeat::
     .string "Oh, so sharp!$"
 
 FiveIsland_MemorialPillar_Text_MiloPostBattle::
-    .string "You can fly to FOUR ISLAND from\n"
+    .string "You can fly to Four Island from\n"
     .string "here.$"
 
 FiveIsland_MemorialPillar_Text_ChazIntro::
-    .string "I'm the middle kid of the BIRD\n"
-    .string "BROTHERS.\p"
+    .string "I'm the middle kid of the Bird\n"
+    .string "Brothers.\p"
     .string "The best thing about birds…\n"
     .string "It has to be the wings.$"
 
@@ -25,8 +25,8 @@ FiveIsland_MemorialPillar_Text_ChazPostBattle::
     .string "over that way.$"
 
 FiveIsland_MemorialPillar_Text_HaroldIntro::
-    .string "I'm the youngest of the BIRD\n"
-    .string "BROTHERS.\p"
+    .string "I'm the youngest of the Bird\n"
+    .string "Brothers.\p"
     .string "The best thing about birds…\n"
     .string "It has to be the down.$"
 
@@ -36,14 +36,14 @@ FiveIsland_MemorialPillar_Text_HaroldDefeat::
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
     .string "It fills me with happiness when\n"
-    .string "bird POKéMON beg playfully…$"
+    .string "bird Pokémon beg playfully…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
     .string "Scrub, scrub…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
     .string "Hello…\n"
-    .string "Your POKéMON look healthy…$"
+    .string "Your Pokémon look healthy…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
     .string "This is where I buried my ONIX…\n"
@@ -52,15 +52,15 @@ FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
     .string "“Here lies TECTONIX” is engraved\n"
     .string "on a boulder.\p"
-    .string "There is a LEMONADE placed as an\n"
+    .string "There is a Lemonade placed as an\n"
     .string "offering in front of the grave.$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
     .string "Would you like to leave another\n"
-    .string "LEMONADE as an offering?$"
+    .string "Lemonade as an offering?$"
 
 FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
-    .string "{PLAYER} placed a can of LEMONADE\n"
+    .string "{PLAYER} placed a can of Lemonade\n"
     .string "in front of the grave.$"
 
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
@@ -74,7 +74,7 @@ FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
     .string "thanks?$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-    .string "Please be good to your POKéMON,\n"
+    .string "Please be good to your Pokémon,\n"
     .string "too.$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::

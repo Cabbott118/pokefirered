@@ -1426,7 +1426,7 @@ static void AnimTask_Withdraw_Step(u8 taskId)
     }
 }
 
-// Animates a "zap of energy" used in KINESIS.
+// Animates a "zap of energy" used in Kinesis.
 // arg 0: x pixel offset
 // arg 1: y pixel offset
 // arg 2: vertical flip
