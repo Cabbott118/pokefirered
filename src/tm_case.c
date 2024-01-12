@@ -26,7 +26,8 @@
 #include "constants/quest_log.h"
 
 // Any item in the TM Case with nonzero importance is considered an HM
-#define IS_HM(itemId) (ItemId_GetImportance(itemId) != 0)
+// #define IS_HM(itemId) (ItemId_GetImportance(itemId) != 0)
+#define IS_HM(itemId) ((itemId) >= ITEM_HM01 && (itemId) <= ITEM_HM08)
 
 #define TAG_SCROLL_ARROW 110
 
